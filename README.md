@@ -5,3 +5,4 @@ This page includes coding exercises we did throughout the class. You can either 
 * 
 
 ![alt text](https://github.com/nsydn/ise304_syssim/blob/main/pi_est.jpg?raw=true)
+<img src="pi_est.jpg" width="35%" alt="Site logo" align = "right" style="margin:0px 10px">
