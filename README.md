@@ -4,6 +4,7 @@ This page includes coding exercises we did throughout the class. You can either 
 * As an **assignment**, students were asked to approximate `pi` using simulation, specifically, pseudo-random numbers between 0 and 1. The approximation needs to be repeated for increasing sample sizes using a constant seed to see the converging behaviour. The file [`pi_est.m`](pi_est.m) includes one way to do this, which is to calculate the proportion of pairs falling into the slice below and equate it to the analytical equation for the area of the unit circle.
 <!--- ![alt text](https://github.com/nsydn/ise304_syssim/blob/main/pi_est.jpg?raw=true) --->
 <img src="pi_est.jpg" width="50%" alt="Site logo" align = "center" style="margin:0px 10px">
+<img src="pi_est2.jpg" width="50%" alt="Site logo" align = "center" style="margin:0px 10px">
 
 * The file [`mall_parking.m`](mall_parking.m) includes a simple MATLAB routine to calculate the number of servers needed for a shopping mall parking lot.
 
