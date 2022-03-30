@@ -10,3 +10,4 @@ hold all
 plot(n,pi_hat,'b',n,repmat(pi,length(n)),'--r')
 xlabel('Sample size')
 ylabel('Approximate value')
+box('on')
