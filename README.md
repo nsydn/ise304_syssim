@@ -5,5 +5,5 @@ This page includes coding exercises we did throughout the class. You can either 
 
 <img src="figures/pi_est.jpg" width="40%" alt="Site logo" align = "center" style="margin:0px 10px"><img src="figures/pi_est2.jpg" width="45%" alt="Site logo" align = "center" style="margin:0px 10px">
 
-* The file [`mall_parking.m`](w5/mall_parking.m) includes a simple MATLAB routine to calculate the number of servers needed for a **shopping mall parking lot**.
+* The file [`mall_parking.m`](w5/mall_parking.m) includes a simple MATLAB routine to calculate the number of servers `c` needed for a **shopping mall parking lot**.
 
